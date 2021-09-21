@@ -17,5 +17,6 @@ The order of the explanation should like this
 7. Classification workshop
 
 
-# If you any queries or question, please contact the following emails. qayyum@enib.fr, abdesslam.benzinou@enib.fr, nasreddine@enib.fr, k0bengai@enib.fr
+# If you any queries or question, please contact the following emails. 
+qayyum@enib.fr, abdesslam.benzinou@enib.fr, nasreddine@enib.fr, k0bengai@enib.fr
 
