@@ -1,7 +1,7 @@
 # ISblue_Workshop
 # Please check the practical material in Day_1_Material folder, inside the folder, you can find the different files 
 First, We will explain the basic introduction about OpenCV, skimage, scikit-learn and NumPy. Please go and check the files in Day_1_Material folder.
-# Day_1_Material
+# Day_1_practical
 The order of the explanation should like this
 1. introduction of OpenCv.
 2. Introduction of skimage
