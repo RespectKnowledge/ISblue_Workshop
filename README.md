@@ -5,8 +5,7 @@ The order of the explanation should like this
 1. introduction of OpenCv.
 2. Introduction of skimage
 3. Introduction and Scikit-Learn
-4. Introduction of Numpy and other visulization library.
-5.
+4. Introduction of Numpy and other visualization library.
 # Day_2 practical.
 1. We will explain the introduction of PyTorch and basic operations that are widely used in Pytorch
 2. Basic Layer configuration and how to construct module in Pytorch
