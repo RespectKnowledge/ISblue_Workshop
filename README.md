@@ -20,5 +20,5 @@ The order of the explanation should like this
 
 
 # If you any queries or question, please contact the following emails. 
-qayyum@enib.fr, abdesslam.benzinou@enib.fr, nasreddine@enib.fr, k0bengai@enib.fr
+qayyum@enib.fr, engr.qayyum@gmail.com
 
